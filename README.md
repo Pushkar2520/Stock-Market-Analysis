@@ -49,3 +49,28 @@ This project presents a stock market dashboard that analyzes historical stock da
 ### KPI: Close prices, open prices, daily volume per stock
 - What is today’s closing price for each company?
 - How did each company's volume change from the previous day?
+
+# Process
+## Data Extraction
+- We start by sourcing stock market data from reliable financial APIs or CSV files. This data includes daily stock prices, trading volume, and other relevant metrics.
+
+## Data Preparation with Pandas
+- We use Pandas to manipulate our data and create new columns like the moving average and percent change, which are used for comparison in order to generate the final CSV 
+files that will be used to build the dashboard.
+- This step includes:
+1. Parsing date fields
+2. Filtering unnecessary columns
+3. Handling missing values
+- Calculating indicators such as 50-day and 200-day moving averages
+
+## CSV Export
+- Once processed, the data is exported into CSV format. These files serve as the input for the dashboard visualization.
+
+## Dashboard Development
+- Using a dashboarding tool Tableau I visualize the trends in the stock market using:
+1. Line charts for price movements
+2. Bar charts for volume
+3. Indicators for moving averages and percent change
+
+## Analysis and Insights
+- The final dashboard allows users to compare stock performance over time, identify trends, and make informed decisions.
