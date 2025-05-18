@@ -1,2 +1,2 @@
-# Stock-Market-Analysis
-An interactive dashboard visualizing stock data (2016–2019) for Apple, Facebook, Google, Nvidia, Tesla, and Twitter. It displays price trends, volume, daily changes, moving averages, and volatility using charts and summary stats.
+# Stock-Market-Analysis(Interactive dashborad using Tableau)
+This project presents a stock market dashboard that analyzes historical stock data (2016–2019) for major tech companies including Apple, Facebook, Google, Nvidia, Tesla, and Twitter. The dashboard highlights key metrics such as price changes, trading volume, percentage volatility, and moving averages. It provides clear, visual insights into market trends and stock performance to support data-driven investment decisions.
