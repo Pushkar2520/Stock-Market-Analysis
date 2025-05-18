@@ -75,6 +75,8 @@ files that will be used to build the dashboard.
 2. Filtering unnecessary columns
 3. Handling missing values
 - Calculating indicators such as 50-day and 200-day moving averages
+- 
+  <a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Stock%20Market%20Data%20Prepration.html">Data_Preparation_Codes<a/>
 
 ### CSV Export
 - Once processed, the data is exported into CSV format. These files serve as the input for the dashboard visualization.
