@@ -50,7 +50,7 @@ This project presents a stock market dashboard that analyzes historical stock da
 - What is today’s closing price for each company?
 - How did each company's volume change from the previous day?
 
-# Process
+# Process for Dashboard
 ### Data Extraction
 - We start by sourcing stock market data from reliable financial APIs or CSV files. This data includes daily stock prices, trading volume, and other relevant metrics.
 
