@@ -94,5 +94,17 @@ files that will be used to build the dashboard.
 ### Analysis and Insights
 - The final dashboard allows users to compare stock performance over time, identify trends, and make informed decisions.
 
+# Dashboard
+![Stock Market Dashboard](https://github.com/user-attachments/assets/a5c6c07f-e00b-4b78-aaae-16abaf89d1b5)
+
 # Project Insights
   <a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Insights%20from%20the%20Stock%20Market%20Analysis.pptx">Insights_Files<a/>
+
+# Final Conclusion
+- Between February 2016 and April 2019, the stock market data reveals strong overall performance for major tech companies like Apple, Facebook, Google, Nvidia, Tesla, and Twitter. Apple stood out with consistently high trading volumes and a steady upward trend in its open price, supported by both 50-day and 100-day moving averages—indicating strong investor confidence and long-term growth.
+
+- There are fluctuations in trading volumes and daily price changes across all companies. Tesla and Nvidia experienced occasional volume spikes, likely due to major announcements or earnings reports. Twitter, on the other hand, showed the least volatility in price changes, suggesting relatively stable investor sentiment.
+
+- Key statistics include a total market volume exceeding 103 billion shares and a price range from as low as $13.73 to a high of $1,530.74. Despite periodic dips, the majority of companies maintained an upward price trend, signaling positive growth potential during the observed period.
+
+- This analysis reflects a bullish tech sector, with Apple leading in momentum and consistency, making it a standout performer for both short and long-term investors.  
