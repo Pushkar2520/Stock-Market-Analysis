@@ -22,7 +22,7 @@ This project presents a stock market dashboard that analyzes historical stock da
 ### Highest & lowest stock prices
 - What was the highest stock price recorded in the period?
 - What was the lowest stock price recorded in the period?
-  - Which company had the most significant price increase or decrease?
+- Which company had the most significant price increase or decrease?
 
 ## Daily Stock Change
 ### Daily price change, percent change
