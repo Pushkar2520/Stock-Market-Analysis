@@ -78,9 +78,9 @@ files that will be used to build the dashboard.
 1. Parsing date fields
 2. Filtering unnecessary columns
 3. Handling missing values
-- Calculating indicators such as 50-day and 200-day moving averages
-- 
-  <a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Stock%20Market%20Data%20Prepration.html">Data_Preparation_Codes<a/>
+4. Calculating indicators such as 50-day and 200-day moving averages
+-  Data Preration File
+  <a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Stock%20Market%20Data%20Prepration.html">Preration-Code<a/>
 
 ### CSV Export
 - Once processed, the data is exported into CSV format. These files serve as the input for the dashboard visualization.
@@ -95,4 +95,4 @@ files that will be used to build the dashboard.
 - The final dashboard allows users to compare stock performance over time, identify trends, and make informed decisions.
 
 # Project Insights
-  <a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Insights%20from%20the%20Stock%20Market%20Analysis.pptx">Insights<a/>
+  <a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Insights%20from%20the%20Stock%20Market%20Analysis.pptx">Insights_Files<a/>
