@@ -50,9 +50,8 @@ This project presents a stock market dashboard that analyzes historical stock da
 - What is today’s closing price for each company?
 - How did each company's volume change from the previous day?
 - Dashboard Interaction <a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Stock%20Market%20Dashboard.png">Dashboard<a/>
-<a 
-  
-  href="https://public.tableau.com/app/profile/pushkar.raj8524/viz/StockAnalysis_17475223363400/Dashboard1">Tableau_Interaction<a/>
+
+<a href="https://public.tableau.com/app/profile/pushkar.raj8524/viz/StockAnalysis_17475223363400/Dashboard1">Tableau_Interaction<a/>
 
 # Prepared/Manupulated Data
 <a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Apple.csv">Apple_Dataset<a/>
