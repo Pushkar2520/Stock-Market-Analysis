@@ -93,3 +93,6 @@ files that will be used to build the dashboard.
 
 ### Analysis and Insights
 - The final dashboard allows users to compare stock performance over time, identify trends, and make informed decisions.
+
+# Project Insights
+  <a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Insights%20from%20the%20Stock%20Market%20Analysis.pptx">Insights<a/>
