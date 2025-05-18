@@ -50,7 +50,18 @@ This project presents a stock market dashboard that analyzes historical stock da
 - What is today’s closing price for each company?
 - How did each company's volume change from the previous day?
 
+# Prepared/Manupulated Data
+<a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Apple.csv">Apple_Dataset<a/>
 
+<a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Facebook.csv">Facebook_Dataset<a/>
+
+<a href="http://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Google.csv">Google_Dataset<a/>
+
+<a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Nvidia.csv">Nvidia_Dataset<a/>
+
+<a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Tesla.csv">Tesla_Dataset<a/>
+
+<a href="https://github.com/Pushkar2520/Stock-Market-Analysis/blob/main/Twitter.csv">Twitter_Dataset<a/>
 
 # Process for Dashboard
 ### Data Extraction
