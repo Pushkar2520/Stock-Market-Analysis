@@ -29,7 +29,7 @@ This project presents a stock market dashboard that analyzes historical stock da
 - What is the price change for each stock compared to the previous day?
 - Which stock gained/lost the most in percentage terms today?
 
-##D.   Volume Metrics
+## D.   Volume Metrics
 ### KPI: Daily trading volume, total volume
 - What was the total volume traded in the given time period?
 - What is today’s total trading volume?
@@ -40,12 +40,12 @@ This project presents a stock market dashboard that analyzes historical stock da
 - What is the distribution of percentage price changes across all stocks?
 - Are most stock price changes clustered around a certain range?
 
-##F.   Moving Averages
+## F.   Moving Averages
 ### KPI: MA50 and MA100 (Moving Averages)
 - How does Apple’s 50-day and 100-day moving average compare with its open price?
 - Are there any crossover signals between the 50-day and 100-day moving averages?
 
-##G.   Company-specific Metrics
+## G.   Company-specific Metrics
 ### KPI: Close prices, open prices, daily volume per stock
 - What is today’s closing price for each company?
 - How did each company's volume change from the previous day?
